@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743269679 source:c:\users\econt\documents\programacion1\c++\traductor\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<string>
+	<cstdlib>
+
