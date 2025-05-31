@@ -16,7 +16,7 @@ Blanco: White
 Bueno: Good
 Calor:Hot
 Camino: Road
-Casa: House
+Casa:Home
 Cerca: Near
 Cielo: Sky
 Ciudad: City
@@ -41,7 +41,7 @@ Hola:Hello
 Hospital: Hospital
 Hoy: Today
 Inteligente: Smart
-Invierno: Winter
+Invierno:Winter
 Joven: Young
 Lago: Lake
 Largo: Long
@@ -80,9 +80,10 @@ Siempre: Always
 Sol: Sun
 Tarde: Afternoon
 Tierra: Earth
+Tiro de Esquina:Corner
 Trabajo: Work
 Triste: Sad
-Verano: Summer
+Verano:Summer
 Verde: Green
 Viejo: Old
 Viento: Wind
